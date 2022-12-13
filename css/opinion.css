@@ -1,0 +1,22 @@
+
+header {
+  font-weight: 900;
+  font-size: 28px;
+}
+a{
+  text-decoration:inherit;
+
+}
+
+.blog-post{
+  margin-bottom: 30px;
+}
+.bpt{
+  font-size: 24px;
+}
+
+footer{
+  background: #ADDFFF;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
